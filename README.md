@@ -1,4 +1,4 @@
-# AI-Powered Resume Screening and Job Recommendation System with Parsing and Categorization
+# Resume Screening and Job Recommendation System with Parsing and Categorization
 
 ![image233519](https://github.com/user-attachments/assets/26817b99-574b-40ec-8770-92b084afe5aa)
 
